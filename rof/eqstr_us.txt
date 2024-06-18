@@ -493,11 +493,11 @@ EQST0002
 583 Charisma
 584 Mana
 585 Hit Points
-586 Vs Magic
+586 Vs Spirit
 587 Vs Fire
-588 Vs Cold
-589 Vs Disease
-590 Vs Poison
+588 Vs Water
+589 Vs Air
+590 Vs Earth
 591 Armor Class
 592 The Bazaar feature is currently disabled.
 593 You are too inexperienced in your craft to even consider attempting this combination.
@@ -1775,11 +1775,11 @@ EQST0002
 3014 Dmg: %1  %2
 3015 AC: <c "#FF4040">%1</c> (%2)
 3016 AC: %1
-3017 Magic Dmg: %1
+3017 Spirit Dmg: %1
 3018 Fire Dmg: %1
-3019 Cold Dmg: %1
-3020 Poison Dmg: %1
-3021 Disease Dmg: %1
+3019 Water Dmg: %1
+3020 Earth Dmg: %1
+3021 Air Dmg: %1
 3022 Bane Dmg: %1 %2
 3023 Bane Dmg: %1 +%2
 3024 Bane Dmg: %1, %2 %3
@@ -4757,11 +4757,11 @@ EQST0002
 8671 Raid
 8672 Main
 8673 Assist
-8674 cold
-8675 disease
-8676 magic
+8674 water
+8675 air
+8676 spirit
 8677 fire
-8678 poison
+8678 earth
 8679 physical attacks
 8680 You sense an immunity to: %1
 8681 You sense an extreme resistance to: %1
@@ -5790,10 +5790,10 @@ EQST0002
 12464 HP: %1    
 12465 Mana: %1    
 12466 Fire: %1    
-12467 Disease: %1    
-12468 Cold: %1    
-12469 Magic: %1    
-12470 Poison: %1    
+12467 Air: %1    
+12468 Water: %1    
+12469 Spirit: %1    
+12470 Earth: %1    
 12471 You sense undead in this direction.
 12472 You sense an animal in this direction.
 12473 You sense a summoned being in this direction.
@@ -6350,11 +6350,11 @@ EQST0002
 13024 Agility:
 13025 Dexterity:
 13026 Charisma:
-13027 Magic:
+13027 Spirit:
 13028 Fire:
-13029 Cold:
-13030 Disease:
-13031 Poison:
+13029 Water:
+13030 Air:
+13031 Earth:
 13032 Corrupt:
 13033 Haste:
 13034 Mana Regen:
@@ -6639,11 +6639,11 @@ EQST0002
 13313 Size Cap:
 13314 HP Regen:
 13315 Strike Thr:
-13316 Magic Dmg:
+13316 Spirit Dmg:
 13317 Fire Dmg:
-13318 Cold Dmg:
-13319 Poison Dmg:
-13320 Disease Dmg:
+13318 Water Dmg:
+13319 Earth Dmg:
+13320 Air Dmg:
 13321 Corrupt Dmg:
 13322 Purity:
 13323 Power:
