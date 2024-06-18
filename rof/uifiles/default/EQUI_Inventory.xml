@@ -1480,7 +1480,7 @@
 			<CX>64</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>POISON</Text>
+		<Text>EARTH</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1489,7 +1489,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists poison-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Air, Weak to Fire</TooltipReference>
 	</Label>
 	<Label item="IW_PoisonNumber">
 		<ScreenID>PoisonNumberLabel</ScreenID>
@@ -1524,7 +1524,7 @@
 			<CX>64</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>MAGIC</Text>
+		<Text>SPIRIT</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1533,7 +1533,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists magic-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Water, Weak to Air</TooltipReference>
 	</Label>
 	<Label item="IW_MagicNumber">
 		<ScreenID>MagicNumberLabel</ScreenID>
@@ -1568,7 +1568,7 @@
 			<CX>64</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>DISEASE</Text>
+		<Text>AIR</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1577,7 +1577,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists disease-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Spirit, Weak to Earth</TooltipReference>
 	</Label>
 	<Label item="IW_DiseaseNumber">
 		<ScreenID>DiseaseNumberLabel</ScreenID>
@@ -1621,7 +1621,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists fire-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Earth, Weak to Water</TooltipReference>
 	</Label>
 	<Label item="IW_FireNumber">
 		<ScreenID>FireNumberLabel</ScreenID>
@@ -1656,7 +1656,7 @@
 			<CX>64</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>COLD</Text>
+		<Text>WATER</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -1665,7 +1665,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists cold-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Fire, weak to Spirit</TooltipReference>
 	</Label>
 	<Label item="IW_ColdNumber">
 		<ScreenID>ColdNumberLabel</ScreenID>
@@ -4034,7 +4034,7 @@
 			<CX>120</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>Magic</Text>
+		<Text>Spirit</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -4043,7 +4043,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists magic-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Water, Weak to Air</TooltipReference>
 	</Label>
 	<Label item="IWS_CurrentMagic">
 		<EQType>249</EQType>
@@ -4139,7 +4139,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists fire-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Earth, Weak to Water</TooltipReference>
 	</Label>
 	<Label item="IWS_CurrentFire">
 		<EQType>247</EQType>
@@ -4226,7 +4226,7 @@
 			<CX>120</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>Cold</Text>
+		<Text>Water</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -4235,7 +4235,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists cold-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Fire, weak to Spirit</TooltipReference>
 	</Label>
 	<Label item="IWS_CurrentCold">
 		<EQType>248</EQType>
@@ -4322,7 +4322,7 @@
 			<CX>120</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>Disease</Text>
+		<Text>Air</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -4331,7 +4331,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists disease-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Spirit, Weak to Earth</TooltipReference>
 	</Label>
 	<Label item="IWS_CurrentDisease">
 		<EQType>246</EQType>
@@ -4418,7 +4418,7 @@
 			<CX>120</CX>
 			<CY>14</CY>
 		</Size>
-		<Text>Poison</Text>
+		<Text>Earth</Text>
 		<TextColor>
 			<R>255</R>
 			<G>255</G>
@@ -4427,7 +4427,7 @@
 		<NoWrap>true</NoWrap>
 		<AlignCenter>false</AlignCenter>
 		<AlignRight>false</AlignRight>
-		<TooltipReference>Resists poison-based damage spells</TooltipReference>
+		<TooltipReference>Strong to Air, Weak to Fire</TooltipReference>
 	</Label>
 	<Label item="IWS_CurrentPoison">
 		<EQType>245</EQType>
