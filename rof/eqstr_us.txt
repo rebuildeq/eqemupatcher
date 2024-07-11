@@ -2310,7 +2310,7 @@ EQST0002
 3579 Mission
 3580 Quest
 3581 Due to the removal of a player, the requirements for this mission are no longer met.
-3582 The direction to the entry to your instanced zone(s) have been marked on your compass. 
+3582 Your compass is marked with your destination. 
 3583 Unable to retrieve dynamic zone leader to check permissions.
 3584 You are not the dynamic zone leader, only %1 can issue this command.
 3585 The expedition is not allowing players to be added.
