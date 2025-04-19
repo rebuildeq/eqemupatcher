@@ -1,0 +1,10 @@
+rm -f ../../rof/lavastorm*
+cp lavastorm_chr.s3d ../../rof/
+cp lavastorm_chr.txt ../../rof/
+cp lavastorm_EnvironmentEmitters.txt ../../rof/
+cp lavastorm_obj.s3d ../../rof/
+cp lavastorm_sndbnk.eff ../../rof/
+cp lavastorm_sounds.eff ../../rof/
+cp lavastorm.emt ../../rof/
+cp lavastorm.mp3 ../../rof/
+cp lavastorm.s3d ../../rof/

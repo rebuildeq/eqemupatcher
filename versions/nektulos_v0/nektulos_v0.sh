@@ -1,0 +1,13 @@
+rm -f ../../rof/nektulos*
+cp nektulos_chr.s3d ../../rof/
+cp nektulos_chr.txt ../../rof/
+cp nektulos_obj.s3d ../../rof/
+cp nektulos_obj1.eqg ../../rof/
+cp nektulos_sndbnk.eff ../../rof/
+cp nektulos_sounds.eff ../../rof/
+cp nektulos.emt ../../rof/
+cp nektulos.mp3 ../../rof/
+cp nektulos.s3d ../../rof/
+cp nektulos.txt ../../rof/maps/
+cp nektulos.xmi ../../rof/
+cp Nektulos.zon ../../server/
