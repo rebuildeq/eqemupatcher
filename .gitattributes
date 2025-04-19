@@ -71,3 +71,29 @@
 *.PDF   diff=astextplain
 *.rtf   diff=astextplain
 *.RTF   diff=astextplain
+
+* text eol=crlf
+*.txt binary
+*.json binary
+*.bat binary
+*.gitignore binary
+*.html binary
+*.emt binary
+*.eff binary
+*.xml binary
+*.dll binary
+*.s3d binary
+*.txc binary
+*.xmi binary
+*.eqg binary
+*.mp3 binary
+*.exe binary
+*.zon binary
+*.xml binary
+*.tga binary
+*.dds binary
+*.sh binary
+*.cur binary
+*.gitattributes binary
+*.ini binary
+*.pfs binary
