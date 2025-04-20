@@ -52,6 +52,4 @@ jobs:
         prerelease: false
         title: "${{ env.VERSION }}.${{ github.run_number }}"
         files: |
-          EQEmu Patcher/EQEmu Patcher/bin/Release/${{env.FILE_NAME}}.exe
           rof/filelist_rof.yml
-          rof/${{env.FILE_NAME}}-hash.txt
