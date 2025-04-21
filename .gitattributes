@@ -53,6 +53,7 @@
 *.png   binary
 *.ico   binary
 *.gif   binary
+*.dds   binary
 
 ###############################################################################
 # diff behavior for common document formats
