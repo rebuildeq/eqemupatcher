@@ -27,7 +27,7 @@ jobs:
       run: |
         cd "rof"
         C:\msys64\usr\bin\wget.exe --no-verbose https://github.com/xackery/filelistbuilder/releases/latest/download/filelistbuilder-win-x64.exe
-        .\filelistbuilder-win-x64.exe "rof" "${{env.STORAGE_URL}}" "../EQEmu Patcher/EQEmu Patcher/bin/Release/eqemupatcher.exe"
+        .\filelistbuilder-win-x64.exe "rof" "${{env.STORAGE_URL}}"
         
     - name: Release
       uses: "marvinpinto/action-automatic-releases@latest"
